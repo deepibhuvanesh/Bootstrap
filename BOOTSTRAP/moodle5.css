@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Pictures-Light-Blue-Wallpaper-HD.jpg);
+}
+.imgSize{
+    height:100px;
+    width:100px;
+}
+.border{
+    border:2px solid whitesmoke;
+    border-radius: 10px;
+    height: 120px;
+    width:1200px;
+    background-color: beige;
+    margin: 30px;
+}
+h1{
+    color:blueviolet;
+}

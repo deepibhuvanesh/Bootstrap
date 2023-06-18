@@ -1,0 +1,27 @@
+.Style{
+        background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+        width: 25rem;
+}
+.bgCard{
+        background-color: aliceblue;
+        border-top-right-radius: 20px;
+        border-top-left-radius: 20px;
+}
+button{
+       border: 2px solid #d7dfe9;
+       border-radius: 10px;
+       height: 40px;
+       margin-left: 40px;
+}
+.txt{
+       color: #5752ab;
+       font-family: Bree Serif;
+       font-size: 30px;
+}
+.bgBtn{
+       background-color: #5752ab;
+       color: #d7dfe9;
+}
+body{
+       margin-left: 500px;
+}

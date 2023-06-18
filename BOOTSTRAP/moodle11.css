@@ -1,0 +1,11 @@
+.bgImage{
+    height:600px;
+}
+.Border{
+    border: 2px solid black;
+    height:100px;
+    width:100px;
+    border-radius: 20px;
+    float: left;
+    margin-left: 20px;
+}

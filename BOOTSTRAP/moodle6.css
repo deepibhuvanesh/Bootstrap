@@ -1,0 +1,32 @@
+.bgImage{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png
+    );
+    background-size: cover;
+    height: 400px;
+    color: antiquewhite;
+    font-family: bradley hand itc;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding: 120px;
+}
+.bgColor{
+      background-color: aquamarine;
+}
+.cardImage{
+    height:80px;
+    width:100px;
+}    
+.Margin{
+    width:200px;
+    margin-left: 230px;
+    margin-top: 30px;
+}
+.diwali{
+    margin-right: 50px;
+}
+button{
+    background-color:blue;
+    border-radius: 5px ;
+    margin-left: 630px;
+    color:white;
+}

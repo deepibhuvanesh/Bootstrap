@@ -1,0 +1,47 @@
+button{
+    background-color: #0967d2;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    margin-left: 200px;
+    height:45px;
+}
+.colorBg{
+    background-color:skyblue;
+}
+.Border1{
+    border: 1px solid  #3ebd93;
+    border-radius: 8px;
+    background-color: #3ebd93;
+    height:6rem;
+    width:6rem;
+    margin-left: 20px;
+}
+.Border2{
+    border: 1px solid #e668a7;
+    border-radius: 8px;
+    background-color:#e668a7;
+    height:6rem;
+    width:6rem;
+    margin-left: 20px;
+}
+.Border3{
+    border: 1px solid #a368fc;
+    border-radius: 8px;
+    background-color: #a368fc;
+    height:6rem;
+    width:6rem;
+    margin-left: 20px;
+}
+.CovidColor{
+    background-color:bisque;
+}
+.one{
+    background-color: #0967d2;
+    border: 1px solid white;
+    border-radius: 5px;
+    color:white;
+    margin-left: 200px;
+    height:45px;
+}
+
